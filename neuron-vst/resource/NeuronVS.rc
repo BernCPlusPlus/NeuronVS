@@ -1,0 +1,169 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Neutral resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEU)
+#ifdef _WIN32
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_RESYS               BITMAP  DISCARDABLE     "..\\resource\\bmp10000.bmp"
+IDB_SILVER              BITMAP  DISCARDABLE     "..\\resource\\bmp10001.bmp"
+IDB_REMOTE              BITMAP  DISCARDABLE     "..\\resource\\bmp10002.bmp"
+IDB_ABOUT               BITMAP  DISCARDABLE     "..\\resource\\bmp10003.bmp"
+IDB_EQSHELF             BITMAP  DISCARDABLE     "..\\resource\\bmp10100.bmp"
+IDB_EQBAND              BITMAP  DISCARDABLE     "..\\resource\\bmp10101.bmp"
+IDB_COMPR               BITMAP  DISCARDABLE     "..\\resource\\bmp10102.bmp"
+IDB_DISTORT             BITMAP  DISCARDABLE     "..\\resource\\bmp10110.bmp"
+IDB_RINGMOD1            BITMAP  DISCARDABLE     "..\\resource\\bmp10120.bmp"
+IDB_RINGMOD2            BITMAP  DISCARDABLE     "..\\resource\\bmp10121.bmp"
+IDB_DECIMAT             BITMAP  DISCARDABLE     "..\\resource\\bmp10130.bmp"
+IDB_SPWARP              BITMAP  DISCARDABLE     "..\\resource\\bmp10140.bmp"
+IDB_STEREOSPR           BITMAP  DISCARDABLE     "..\\resource\\bmp10200.bmp"
+IDB_LRDELAY             BITMAP  DISCARDABLE     "..\\resource\\bmp10210.bmp"
+IDB_FLANGER1            BITMAP  DISCARDABLE     "..\\resource\\bmp10220.bmp"
+IDB_FLANGER2            BITMAP  DISCARDABLE     "..\\resource\\bmp10221.bmp"
+IDB_PHASER1             BITMAP  DISCARDABLE     "..\\resource\\bmp10230.bmp"
+IDB_PHASER2             BITMAP  DISCARDABLE     "..\\resource\\bmp10231.bmp"
+IDB_CHORUS1             BITMAP  DISCARDABLE     "..\\resource\\bmp10240.bmp"
+IDB_CHORUS2             BITMAP  DISCARDABLE     "..\\resource\\bmp10241.bmp"
+IDB_RESYLVL1            BITMAP  DISCARDABLE     "..\\resource\\bmp10300.bmp"
+IDB_RESYLVL2            BITMAP  DISCARDABLE     "..\\resource\\bmp10301.bmp"
+IDB_RESYLVL3            BITMAP  DISCARDABLE     "..\\resource\\bmp10302.bmp"
+IDB_SWSMALL             BITMAP  DISCARDABLE     "..\\resource\\bmp11000.bmp"
+IDB_SWBIG               BITMAP  DISCARDABLE     "..\\resource\\bmp11001.bmp"
+IDB_SWSTD               BITMAP  DISCARDABLE     "..\\resource\\bmp11002.bmp"
+IDB_SWMODULE            BITMAP  DISCARDABLE     "..\\resource\\bmp11003.bmp"
+IDB_SWARROW             BITMAP  DISCARDABLE     "..\\resource\\bmp11004.bmp"
+IDB_FONTBIG             BITMAP  DISCARDABLE     "..\\resource\\bmp11100.bmp"
+IDB_FONTSMALL           BITMAP  DISCARDABLE     "..\\resource\\bmp11101.bmp"
+IDB_SCROLLERHITMAP1     BITMAP  DISCARDABLE     "..\\resource\\bmp11200.bmp"
+IDB_SCROLLERLED1        BITMAP  DISCARDABLE     "..\\resource\\bmp11201.bmp"
+IDB_SCROLLERHITMAP2     BITMAP  DISCARDABLE     "..\\resource\\bmp11202.bmp"
+IDB_SCROLLERLED2        BITMAP  DISCARDABLE     "..\\resource\\bmp11203.bmp"
+IDB_LEDSTD              BITMAP  DISCARDABLE     "..\\resource\\bmp11300.bmp"
+IDB_RESYRING            BITMAP  DISCARDABLE     "..\\resource\\bmp11400.bmp"
+IDB_RESYBOWL            BITMAP  DISCARDABLE     "..\\resource\\bmp11401.bmp"
+IDB_BLISTER             BITMAP  DISCARDABLE     "..\\resource\\bmp11410.bmp"
+IDB_SHAPERPRVW          BITMAP  DISCARDABLE     "..\\resource\\bmp11500.bmp"
+IDB_SHAPERHNDL          BITMAP  DISCARDABLE     "..\\resource\\bmp11501.bmp"
+IDB_DIALMASK            BITMAP  DISCARDABLE     "..\\resource\\bmp11600.bmp"
+IDB_DIALS               BITMAP  DISCARDABLE     "..\\resource\\bmp11601.bmp"
+#endif    // Neutral resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Deutsch (Deutschland) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_DEU)
+#ifdef _WIN32
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "000004b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "Hartmann Music GmbH\0"
+            VALUE "FileDescription", "NeuronVS\0"
+            VALUE "FileVersion", "1, 0, 0, 0\0"
+            VALUE "InternalName", "neuron-vst\0"
+            VALUE "LegalCopyright", "Copyright © 2004 by Hartmann Music GmbH\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "NeuronVS.dll\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "Neuron VS VSt Plugin\0"
+            VALUE "ProductVersion", "1, 0, 0, 0\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0, 1200
+    END
+END
+
+#endif    // !_MAC
+
+#endif    // Deutsch (Deutschland) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
