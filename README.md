@@ -8,7 +8,8 @@ Feel free to add to the sources as you deem appropriate. Time (and distribution 
 TODOs
 =====
 
-* Update VST SDK to the latest version
+* Update VST 2 SDK to the latest version
+* Add VST 3 support
 * Update code so it uses the latest version of VSTGUILib, update for Xcode 5/10.9
 * Add mouse input to the resynator controls
 * Create AudioUnit version
